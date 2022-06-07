@@ -28,6 +28,8 @@
 * [May 2022](diary/may-2022/README.md)
   * [2022.05.20 (Friday)](diary/may-2022/2022.05.20-friday.md)
   * [2022.05.23 (Monday)](diary/may-2022/2022.05.23-monday.md)
+* [June 2022](diary/june-2022/README.md)
+  * [2022.06.07 (Tuesday)](diary/june-2022/2022.06.07-tuesday.md)
 
 ## SIMPLE PROJECT POS WITH JAVA
 
