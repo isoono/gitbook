@@ -18,6 +18,10 @@
     * [아이템 10 : 단위 테스트를 만들어라](kotlin/effective-kotlin/chapter-1./10.md)
   * [CHAPTER 2. 가독성](kotlin/effective-kotlin/chapter-2./README.md)
     * [아이템 11 : 가독성을 목표로 설계하라](kotlin/effective-kotlin/chapter-2./11.md)
+  * [CHAPTER 3. 재사용성](kotlin/effective-kotlin/chapter-3./README.md)
+    * [아이템 23 : 타입 파라미터의 섀도잉을 피하라](kotlin/effective-kotlin/chapter-3./23.md)
+    * [아이템 24 : 제네릭 타입과 variance 한정자를 활용하라](kotlin/effective-kotlin/chapter-3./24-variance.md)
+    * [아이템 25 : 공통 모듈을 추출해서 여러 플랫폼에서 재사용하라](kotlin/effective-kotlin/chapter-3./25.md)
 
 ## JAVA
 
